@@ -177,19 +177,55 @@
 
 /* Couple Page */
 .demo-3 .page-view.couple .project:nth-child(1) {
-  background-image: url(../img/couple1.jpg);
+  background-image: url(../img/prewedding/couple1.jpg);
 }
 
 .demo-3 .page-view.couple .project:nth-child(2) {
-  background-image: url(../img/img2.jpg);
+  background-image: url(../img/prewedding/couple2.jpg);
 }
 
 .demo-3 .page-view.couple .project:nth-child(3) {
-  background-image: url(../img/img3.jpg);
+  background-image: url(../img/prewedding/couple3.jpg);
 }
 
 .demo-3 .page-view.couple .project:nth-child(4) {
-  background-image: url(../img/img4.jpg);
+  background-image: url(../img/prewedding/couple4.jpg);
+}
+
+
+
+/* Product Page */
+.demo-3 .page-view.product .project:nth-child(1) {
+  background-image: url(../img/product/product1.jpg);
+}
+
+.demo-3 .page-view.product .project:nth-child(2) {
+  background-image: url(../img/product/product2.jpg);
+}
+
+.demo-3 .page-view.product .project:nth-child(3) {
+  background-image: url(../img/product/product3.jpg);
+}
+
+.demo-3 .page-view.product .project:nth-child(4) {
+  background-image: url(../img/product/product4.jpg);
+}
+
+/* Portrait Page */
+.demo-3 .page-view.portrait .project:nth-child(1) {
+  background-image: url(../img/portrait/portrait1.jpg);
+}
+
+.demo-3 .page-view.portrait .project:nth-child(2) {
+  background-image: url(../img/portrait/portrait2.jpg);
+}
+
+.demo-3 .page-view.portrait .project:nth-child(3) {
+  background-image: url(../img/portrait/portrait3.jpg);
+}
+
+.demo-3 .page-view.portrait .project:nth-child(4) {
+  background-image: url(../img/portrait/portrait4.jpg);
 }
 
 .demo-3 .page-view .project:nth-child(odd).hide {

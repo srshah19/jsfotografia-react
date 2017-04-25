@@ -14,12 +14,7 @@ class Couple extends Component {
                 <div className="page-view couple">
                     <div className="project">
                         <div className="text">
-                            <p>Highway</p>
-                        </div>
-                    </div>
-                    <div className="project">
-                        <div className="text">
-                            <p>Carmel Beach</p>
+                            <p>Treasure Island - San Francisco</p>
                         </div>
                     </div>
                     <div className="project">
@@ -29,7 +24,12 @@ class Couple extends Component {
                     </div>
                     <div className="project">
                         <div className="text">
-                            <p>The Lone Tree</p>
+                            <p>Palace of fine arts - San Francisco</p>
+                        </div>
+                    </div>
+                    <div className="project">
+                        <div className="text">
+                            <p>Treasure Island - San Francisco</p>
                         </div>
                     </div>
                     <nav className="arrows">
